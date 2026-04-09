@@ -5,3 +5,11 @@ From [Doc 1](./Doc001.md).
   - Arm® Embedded Trace Macrocell Architecture Specification, ETMv4 (ARM IHI 0064).
   - Arm® Server Base System Architecture (ARM DEN 0029)
   - Arm® Base System Architecture (ARM DEN 0094)
+
+* p.41
+  - Arm® Architecture Reference Manual Supplement - Armv8, for Armv8-R AArch64 architecture profile
+  - ARM® Architecture Reference Manual Supplement - ARMv8, for the ARMv8-R AArch32 architecture profile
+  - ARM® Architecture Reference Manual ARMv7-A and ARMv7-R edition.
+  - Armv8-M Architecture Reference Manual
+  - Armv7-M Architecture Reference Manual
+  - ARMv6-M Architecture Reference Manual
