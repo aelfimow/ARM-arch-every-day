@@ -13,3 +13,7 @@ From [Doc 1](./Doc001.md).
   - Armv8-M Architecture Reference Manual
   - Armv7-M Architecture Reference Manual
   - ARMv6-M Architecture Reference Manual
+
+* p.44
+  - Arm® Embedded Trace Macrocell Architecture Specification, ETMv4
+  - ARM® Generic Interrupt Controller Architecture Specification, GIC architecture version 3 and version 4 (ARM IHI 0069)
