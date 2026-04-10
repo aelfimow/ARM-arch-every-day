@@ -29,6 +29,11 @@
 `ELR`: Exception Link Registers
 * [Doc 1](./Doc001.md): p. 42
 
+## G
+
+`GIC`: Generic Interrupt Controller
+* [Doc 1](./Doc001.md): p. 44
+
 ## L
 
 `LR`: Link Register
@@ -64,7 +69,7 @@
 * [Doc 1](./Doc001.md): p. 26, 40
 
 `SVE`: ?
-* [Doc 1](./Doc001.md): p. 26, 40
+* [Doc 1](./Doc001.md): p. 26, 40, 45
 
 ## V
 
