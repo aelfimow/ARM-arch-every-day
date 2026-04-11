@@ -17,3 +17,6 @@ From [Doc 1](./Doc001.md).
 * p.44
   - Arm® Embedded Trace Macrocell Architecture Specification, ETMv4
   - ARM® Generic Interrupt Controller Architecture Specification, GIC architecture version 3 and version 4 (ARM IHI 0069)
+
+* p.63
+  - IEEE Standard for Binary Floating-Point Arithmetic, referred to as IEEE 754-2008
