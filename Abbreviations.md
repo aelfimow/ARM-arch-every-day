@@ -29,6 +29,16 @@
 `ELR`: Exception Link Registers
 * [Doc 1](./Doc001.md): p. 42
 
+## F
+
+`FP8`: 8-bit floating point format
+* [Doc 1](./Doc001.md): p. 57
+
+`FPCR`: Floating-point Control Register
+`FPSCR`: Floating-Point Status and Control Register
+`FPSR`: Floating-point Status Register
+* [Doc 1](./Doc001.md): p. 62
+
 ## G
 
 `GIC`: Generic Interrupt Controller
@@ -63,13 +73,19 @@
 `RISC`: Reduced Instruction Set Computer
 * [Doc 1](./Doc001.md): p. 39
 
+`RM`: Round towards Minus Infinity
+`RN`: Round to Nearest
+`RP`: Round towards Plus Infinity
+`RZ`: Round towards Zero
+* [Doc 1](./Doc001.md): p. 63
+
 ## S
 
 `SME`: ?
 * [Doc 1](./Doc001.md): p. 26, 40
 
 `SVE`: ?
-* [Doc 1](./Doc001.md): p. 26, 40, 45
+* [Doc 1](./Doc001.md): p. 26, 40, 45, 49
 
 ## V
 
