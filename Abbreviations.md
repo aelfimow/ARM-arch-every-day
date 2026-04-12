@@ -32,7 +32,7 @@
 ## F
 
 `FP8`: 8-bit floating point format
-* [Doc 1](./Doc001.md): p. 57
+* [Doc 1](./Doc001.md): p. 57, p. 65ff
 
 `FPCR`: Floating-point Control Register
 `FPSCR`: Floating-Point Status and Control Register
@@ -50,6 +50,9 @@
 * [Doc 1](./Doc001.md): p. 42
 
 ## M
+
+`MinNorm`: Limit to treat a number as a denormalized number: $$0 < Abs(value) < MinNorm$$
+* [Doc 1](./Doc001.md): p. 66
 
 `MMU`: Memory Management Unit
 * [Doc 1](./Doc001.md): p. 41
