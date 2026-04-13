@@ -62,6 +62,9 @@
 
 ## P
 
+`PA`: physical addresses
+* [Doc 1](./Doc001.md): p. 79
+
 `PE`: Processing Element
 * [Doc 1](./Doc001.md): p. 23, 39
 
@@ -91,6 +94,9 @@
 * [Doc 1](./Doc001.md): p. 26, 40, 45, 49
 
 ## V
+
+`VA`: virtual address
+* [Doc 1](./Doc001.md): p. 79
 
 `VMSA`: Virtual Memory System Architecture
 * [Doc 1](./Doc001.md): p. 23, 41
