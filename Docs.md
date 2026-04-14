@@ -20,3 +20,7 @@ From [Doc 1](./Doc001.md).
 
 * p.63
   - IEEE Standard for Binary Floating-Point Arithmetic, referred to as IEEE 754-2008
+
+* p.82
+  - Arm® Reliability, Availability, and Serviceability (RAS) System Architecture, for A-profile architecture (ARM IHI 0100).
+
