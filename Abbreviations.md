@@ -76,6 +76,9 @@
 
 ## R
 
+`RAS`: Reliability, Availability, and Serviceability
+* [Doc 1](./Doc001.md): p. 80
+
 `RISC`: Reduced Instruction Set Computer
 * [Doc 1](./Doc001.md): p. 39
 
@@ -86,6 +89,12 @@
 * [Doc 1](./Doc001.md): p. 63
 
 ## S
+
+`SDC`: Silent Data Corruption
+* [Doc 1](./Doc001.md): p. 81
+
+`SDC FIT` rate: Silent Data Corruption Failure-in-Time rate
+* [Doc 1](./Doc001.md): p. 82
 
 `SME`: ?
 * [Doc 1](./Doc001.md): p. 26, 40
