@@ -11,10 +11,16 @@
 `APSR`: Application Program Status Register
 * [Doc 1](./Doc001.md): p. 42
 
+`ASID`: ?
+* [Doc 1](./Doc001.md): p. 86
+
 ## C
 
 `CPSR`: Current Program Status Register
 * [Doc 1](./Doc001.md): p. 42
+
+`CSV2`: Cache Speculation Variant 2
+* [Doc 1](./Doc001.md): p. 87
 
 ## D
 
@@ -28,6 +34,12 @@
 
 `ELR`: Exception Link Registers
 * [Doc 1](./Doc001.md): p. 42
+
+`ETMv4`: Embedded Trace Macrocell version 4
+* [Doc 1](./Doc001.md): p. 90
+
+`ETS2`, Enhanced Translation Synchronization
+* [Doc 1](./Doc001.md): p. 90
 
 ## F
 
@@ -96,11 +108,19 @@
 `SDC FIT` rate: Silent Data Corruption Failure-in-Time rate
 * [Doc 1](./Doc001.md): p. 82
 
+`SISD`: Single Instruction Single Data?
+* [Doc 1](./Doc001.md): p. 87
+
 `SME`: ?
 * [Doc 1](./Doc001.md): p. 26, 40
 
 `SVE`: ?
 * [Doc 1](./Doc001.md): p. 26, 40, 45, 49
+
+## T
+
+`TME`: Transactional Memory Extension
+* [Doc 1](./Doc001.md): p. 84
 
 ## V
 
