@@ -56,10 +56,21 @@
 `GIC`: Generic Interrupt Controller
 * [Doc 1](./Doc001.md): p. 44
 
+## I
+
+`IVIPT`: Instruction Virtual Index Physical Tag
+* [Doc 1](./Doc001.md): p. 91
+
 ## L
+
+`LOR`: Limited Ordering Regions
+* [Doc 1](./Doc001.md): p. 97
 
 `LR`: Link Register
 * [Doc 1](./Doc001.md): p. 42
+
+`LSE`: Large System Extensions
+* [Doc 1](./Doc001.md): p. 97
 
 ## M
 
@@ -77,11 +88,20 @@
 `PA`: physical addresses
 * [Doc 1](./Doc001.md): p. 79
 
+`PAN`: Privileged Access Never
+* [Doc 1](./Doc001.md): p. 98
+
 `PE`: Processing Element
 * [Doc 1](./Doc001.md): p. 23, 39
 
+`PIPT`: Physical Index Physical Tag (cache policy)
+* [Doc 1](./Doc001.md): p. 91
+
 `PMSA`: Protected Memory System Architecture
 * [Doc 1](./Doc001.md): p. 41
+
+`PMU`: Performance Monitors Unit
+* [Doc 1](./Doc001.md): p. 92
 
 `PSTATE`: Process state
 * [Doc 1](./Doc001.md): p. 42
@@ -90,6 +110,9 @@
 
 `RAS`: Reliability, Availability, and Serviceability
 * [Doc 1](./Doc001.md): p. 80
+
+`RDM`: Rounding Double Multiply(-accumulate instructions)
+* [Doc 1](./Doc001.md): p. 98
 
 `RISC`: Reduced Instruction Set Computer
 * [Doc 1](./Doc001.md): p. 39
@@ -126,6 +149,15 @@
 
 `VA`: virtual address
 * [Doc 1](./Doc001.md): p. 79
+
+`VHE`: Virtualization Host Extensions
+* [Doc 1](./Doc001.md): p. 99
+
+`VIPT`: Virtual Index Physical Tag (cache policy)
+* [Doc 1](./Doc001.md): p. 91
+
+`VMID`: Virtual Machine Identifier
+* [Doc 1](./Doc001.md): p. 99
 
 `VMSA`: Virtual Memory System Architecture
 * [Doc 1](./Doc001.md): p. 23, 41
