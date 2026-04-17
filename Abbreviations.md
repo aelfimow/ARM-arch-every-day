@@ -35,6 +35,9 @@
 `ELR`: Exception Link Registers
 * [Doc 1](./Doc001.md): p. 42
 
+`ESB`: Error Synchronization Barrier
+* [Doc 1](./Doc001.md): p. 106
+
 `ETMv4`: Embedded Trace Macrocell version 4
 * [Doc 1](./Doc001.md): p. 90
 
@@ -57,6 +60,9 @@
 * [Doc 1](./Doc001.md): p. 44
 
 ## I
+
+`IPA`: Intermediate Physical Address
+* [Doc 1](./Doc001.md): p. 104
 
 `IVIPT`: Instruction Virtual Index Physical Tag
 * [Doc 1](./Doc001.md): p. 91
@@ -86,7 +92,7 @@
 ## P
 
 `PA`: physical addresses
-* [Doc 1](./Doc001.md): p. 79
+* [Doc 1](./Doc001.md): p. 79, 104
 
 `PAN`: Privileged Access Never
 * [Doc 1](./Doc001.md): p. 98
@@ -109,7 +115,7 @@
 ## R
 
 `RAS`: Reliability, Availability, and Serviceability
-* [Doc 1](./Doc001.md): p. 80
+* [Doc 1](./Doc001.md): p. 80, 106
 
 `RDM`: Rounding Double Multiply(-accumulate instructions)
 * [Doc 1](./Doc001.md): p. 98
@@ -148,7 +154,7 @@
 ## V
 
 `VA`: virtual address
-* [Doc 1](./Doc001.md): p. 79
+* [Doc 1](./Doc001.md): p. 79, 105
 
 `VHE`: Virtualization Host Extensions
 * [Doc 1](./Doc001.md): p. 99
