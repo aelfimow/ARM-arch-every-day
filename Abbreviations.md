@@ -143,13 +143,25 @@
 `SME`: ?
 * [Doc 1](./Doc001.md): p. 26, 40
 
-`SVE`: ?
-* [Doc 1](./Doc001.md): p. 26, 40, 45, 49
+`SPU`: Statistical Profiling Unit
+* [Doc 1](./Doc001.md): p. 108
+
+`SVE`: Scalable Vector Extension
+* [Doc 1](./Doc001.md): p. 26, 40, 45, 49, 108
+* [Doc 1](./Doc001.md): p. 108 (first explanation)
 
 ## T
 
 `TME`: Transactional Memory Extension
 * [Doc 1](./Doc001.md): p. 84
+
+`TTCNP`: Translation Table Common Not Private (translations)
+* [Doc 1](./Doc001.md): p. 109
+
+## U
+
+`UAO`: Unprivileged Access Override (control)
+* [Doc 1](./Doc001.md): p. 109
 
 ## V
 
