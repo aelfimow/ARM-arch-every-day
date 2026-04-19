@@ -24,3 +24,5 @@ From [Doc 1](./Doc001.md).
 * p.82
   - Arm® Reliability, Availability, and Serviceability (RAS) System Architecture, for A-profile architecture (ARM IHI 0100).
 
+* p.122
+  - Arm® Reliability Availability and Serviceability (RAS) System Architecture, for A-profile architecture (ARM IHI 0100).
