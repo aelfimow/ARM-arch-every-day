@@ -76,7 +76,7 @@
 * [Doc 1](./Doc001.md): p. 42
 
 `LSE`: Large System Extensions
-* [Doc 1](./Doc001.md): p. 97
+* [Doc 1](./Doc001.md): p. 97, 120
 
 ## M
 
@@ -89,10 +89,18 @@
 `MPU`: Memory Protection Unit
 * [Doc 1](./Doc001.md): p. 41
 
+## N
+
+`NV`: Nested Virtualization
+* [Doc 1](./Doc001.md): p. 114
+
 ## P
 
 `PA`: physical addresses
 * [Doc 1](./Doc001.md): p. 79, 104
+
+`PAC`: Pointer Authentication Code
+* [Doc 1](./Doc001.md): p. 111, 112
 
 `PAN`: Privileged Access Never
 * [Doc 1](./Doc001.md): p. 98
@@ -115,7 +123,10 @@
 ## R
 
 `RAS`: Reliability, Availability, and Serviceability
-* [Doc 1](./Doc001.md): p. 80, 106
+* [Doc 1](./Doc001.md): p. 80, 106, 122
+
+`RCpc`: Release Consistency processor consistent
+* [Doc 1](./Doc001.md): p. 114, 120
 
 `RDM`: Rounding Double Multiply(-accumulate instructions)
 * [Doc 1](./Doc001.md): p. 98
@@ -157,6 +168,9 @@
 
 `TTCNP`: Translation Table Common Not Private (translations)
 * [Doc 1](./Doc001.md): p. 109
+
+`TTL`: Translation Table Level
+* [Doc 1](./Doc001.md): p. 124
 
 ## U
 
