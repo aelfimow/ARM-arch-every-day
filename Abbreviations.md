@@ -62,7 +62,7 @@
 ## I
 
 `IPA`: Intermediate Physical Address
-* [Doc 1](./Doc001.md): p. 104
+* [Doc 1](./Doc001.md): p. 104, 138
 
 `IVIPT`: Instruction Virtual Index Physical Tag
 * [Doc 1](./Doc001.md): p. 91
@@ -89,6 +89,9 @@
 `MPU`: Memory Protection Unit
 * [Doc 1](./Doc001.md): p. 41
 
+`MTE`: Memory Tagging Extension
+* [Doc 1](./Doc001.md): p. 139
+
 ## N
 
 `NV`: Nested Virtualization
@@ -97,7 +100,7 @@
 ## P
 
 `PA`: physical addresses
-* [Doc 1](./Doc001.md): p. 79, 104
+* [Doc 1](./Doc001.md): p. 79, 104, 138
 
 `PAC`: Pointer Authentication Code
 * [Doc 1](./Doc001.md): p. 111, 112
@@ -154,6 +157,9 @@
 `SME`: ?
 * [Doc 1](./Doc001.md): p. 26, 40
 
+`SPE`: Statistical Profiling Extension
+* [Doc 1](./Doc001.md): p. 141
+
 `SPU`: Statistical Profiling Unit
 * [Doc 1](./Doc001.md): p. 108
 
@@ -180,7 +186,7 @@
 ## V
 
 `VA`: virtual address
-* [Doc 1](./Doc001.md): p. 79, 105
+* [Doc 1](./Doc001.md): p. 79, 105, 138
 
 `VHE`: Virtualization Host Extensions
 * [Doc 1](./Doc001.md): p. 99
