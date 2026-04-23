@@ -69,6 +69,9 @@
 
 ## L
 
+`LMI`: Less-Masked Interrupts
+* [Doc 1](./Doc001.md): p. 145
+
 `LOR`: Limited Ordering Regions
 * [Doc 1](./Doc001.md): p. 97
 
