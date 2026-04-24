@@ -16,6 +16,9 @@
 
 ## C
 
+`COSP`: Clear Other Speculative Prediction (Restriction by Context)
+* [Doc 1](./Doc001.md): p. 157
+
 `CPSR`: Current Program Status Register
 * [Doc 1](./Doc001.md): p. 42
 
@@ -91,6 +94,9 @@
 
 `MPU`: Memory Protection Unit
 * [Doc 1](./Doc001.md): p. 41
+
+`MRO`: Mostly Read Only (permission)
+* [Doc 1](./Doc001.md): p. 157
 
 `MTE`: Memory Tagging Extension
 * [Doc 1](./Doc001.md): p. 139
