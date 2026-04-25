@@ -11,6 +11,9 @@
 `APSR`: Application Program Status Register
 * [Doc 1](./Doc001.md): p. 42
 
+`Arm CCA`: Arm Confidential Compute Architecture
+* [Doc 1](./Doc001.md): p. 166
+
 `ASID`: ?
 * [Doc 1](./Doc001.md): p. 86
 
@@ -40,6 +43,9 @@
 
 `ESB`: Error Synchronization Barrier
 * [Doc 1](./Doc001.md): p. 106
+
+`ETE`: Embedded Trace Extension
+* [Doc 1](./Doc001.md): p. 162
 
 `ETMv4`: Embedded Trace Macrocell version 4
 * [Doc 1](./Doc001.md): p. 90
@@ -146,6 +152,9 @@
 `RISC`: Reduced Instruction Set Computer
 * [Doc 1](./Doc001.md): p. 39
 
+`RME`: Realm Management Extension
+* [Doc 1](./Doc001.md): p. 166
+
 `RM`: Round towards Minus Infinity
 `RN`: Round to Nearest
 `RP`: Round towards Plus Infinity
@@ -163,8 +172,8 @@
 `SISD`: Single Instruction Single Data?
 * [Doc 1](./Doc001.md): p. 87
 
-`SME`: ?
-* [Doc 1](./Doc001.md): p. 26, 40
+`SME`: Scalable Matrix Extensions
+* [Doc 1](./Doc001.md): p. 26, 40, 166
 
 `SPE`: Statistical Profiling Extension
 * [Doc 1](./Doc001.md): p. 141
@@ -173,7 +182,7 @@
 * [Doc 1](./Doc001.md): p. 108
 
 `SVE`: Scalable Vector Extension
-* [Doc 1](./Doc001.md): p. 26, 40, 45, 49, 108
+* [Doc 1](./Doc001.md): p. 26, 40, 45, 49, 108, 162
 * [Doc 1](./Doc001.md): p. 108 (first explanation)
 
 ## T
