@@ -17,6 +17,11 @@
 `ASID`: ?
 * [Doc 1](./Doc001.md): p. 86
 
+## B
+
+`BWE`: Breakpoint and Watchpoint Enhancements
+* [Doc 1](./Doc001.md): p. 171
+
 ## C
 
 `COSP`: Clear Other Speculative Prediction (Restriction by Context)
@@ -65,6 +70,9 @@
 
 ## G
 
+`GCS`: Guarded Control Stack Extension
+* [Doc 1](./Doc001.md): p. 172
+
 `GIC`: Generic Interrupt Controller
 * [Doc 1](./Doc001.md): p. 44
 
@@ -91,6 +99,9 @@
 * [Doc 1](./Doc001.md): p. 97, 120
 
 ## M
+
+`MEC`: Memory Encryption Contexts
+* [Doc 1](./Doc001.md): p. 169
 
 `MinNorm`: Limit to treat a number as a denormalized number: $$0 < Abs(value) < MinNorm$$
 * [Doc 1](./Doc001.md): p. 66
@@ -153,7 +164,7 @@
 * [Doc 1](./Doc001.md): p. 39
 
 `RME`: Realm Management Extension
-* [Doc 1](./Doc001.md): p. 166
+* [Doc 1](./Doc001.md): p. 166, 169
 
 `RM`: Round towards Minus Infinity
 `RN`: Round to Nearest
@@ -173,7 +184,7 @@
 * [Doc 1](./Doc001.md): p. 87
 
 `SME`: Scalable Matrix Extensions
-* [Doc 1](./Doc001.md): p. 26, 40, 166
+* [Doc 1](./Doc001.md): p. 26, 40, 166, 167
 
 `SPE`: Statistical Profiling Extension
 * [Doc 1](./Doc001.md): p. 141
