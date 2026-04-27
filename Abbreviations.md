@@ -15,7 +15,7 @@
 * [Doc 1](./Doc001.md): p. 166
 
 `ASID`: ?
-* [Doc 1](./Doc001.md): p. 86
+* [Doc 1](./Doc001.md): p. 86, 178
 
 ## B
 
@@ -26,6 +26,9 @@
 
 `COSP`: Clear Other Speculative Prediction (Restriction by Context)
 * [Doc 1](./Doc001.md): p. 157
+
+`CPA`: Checked Pointer Arithmetic
+* [Doc 1](./Doc001.md): p. 178
 
 `CPSR`: Current Program Status Register
 * [Doc 1](./Doc001.md): p. 42
@@ -109,6 +112,9 @@
 `MMU`: Memory Management Unit
 * [Doc 1](./Doc001.md): p. 41
 
+`MPAM`: ?
+* [Doc 1](./Doc001.md): p. 177
+
 `MPU`: Memory Protection Unit
 * [Doc 1](./Doc001.md): p. 41
 
@@ -164,7 +170,7 @@
 * [Doc 1](./Doc001.md): p. 39
 
 `RME`: Realm Management Extension
-* [Doc 1](./Doc001.md): p. 166, 169
+* [Doc 1](./Doc001.md): p. 166, 169, 184
 
 `RM`: Round towards Minus Infinity
 `RN`: Round to Nearest
