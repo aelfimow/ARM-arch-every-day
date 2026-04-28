@@ -189,6 +189,9 @@
 `SISD`: Single Instruction Single Data?
 * [Doc 1](./Doc001.md): p. 87
 
+`SMCU`: Streaming Mode Compute Unit
+* [Doc 1](./Doc001.md): p. 186
+
 `SME`: Scalable Matrix Extensions
 * [Doc 1](./Doc001.md): p. 26, 40, 166, 167
 
