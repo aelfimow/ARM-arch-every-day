@@ -98,6 +98,9 @@
 `LR`: Link Register
 * [Doc 1](./Doc001.md): p. 42
 
+`LSFE`: Large System Float Extension
+* [Doc 1](./Doc001.md): p. 191
+
 `LSE`: Large System Extensions
 * [Doc 1](./Doc001.md): p. 97, 120
 
@@ -113,7 +116,7 @@
 * [Doc 1](./Doc001.md): p. 41
 
 `MPAM`: ?
-* [Doc 1](./Doc001.md): p. 177
+* [Doc 1](./Doc001.md): p. 177, 191
 
 `MPU`: Memory Protection Unit
 * [Doc 1](./Doc001.md): p. 41
@@ -152,6 +155,9 @@
 `PMU`: Performance Monitors Unit
 * [Doc 1](./Doc001.md): p. 92
 
+`PoPS`: Point of Physical Storage
+* [Doc 1](./Doc001.md): p. 193
+
 `PSTATE`: Process state
 * [Doc 1](./Doc001.md): p. 42
 
@@ -170,7 +176,7 @@
 * [Doc 1](./Doc001.md): p. 39
 
 `RME`: Realm Management Extension
-* [Doc 1](./Doc001.md): p. 166, 169, 184
+* [Doc 1](./Doc001.md): p. 166, 169, 184, 193
 
 `RM`: Round towards Minus Infinity
 `RN`: Round to Nearest
