@@ -44,7 +44,7 @@
 ## E
 
 `EL0`, `EL1`, `EL2`, `EL3`: Exception levels
-* [Doc 1](./Doc001.md): p. 23, 42
+* [Doc 1](./Doc001.md): p. 23, 42, 202
 
 `ELR`: Exception Link Registers
 * [Doc 1](./Doc001.md): p. 42
