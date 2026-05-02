@@ -129,6 +129,9 @@
 
 ## N
 
+`NSVL`: Effective Non-streaming SVE vector length
+* [Doc 1](./Doc001.md): p. 210
+
 `NV`: Nested Virtualization
 * [Doc 1](./Doc001.md): p. 114
 
@@ -211,6 +214,9 @@
 * [Doc 1](./Doc001.md): p. 26, 40, 45, 49, 108, 162
 * [Doc 1](./Doc001.md): p. 108 (first explanation)
 
+`SVL`: Effective Streaming SVE vector length
+* [Doc 1](./Doc001.md): p. 210
+
 ## T
 
 `TME`: Transactional Memory Extension
@@ -237,6 +243,9 @@
 
 `VIPT`: Virtual Index Physical Tag (cache policy)
 * [Doc 1](./Doc001.md): p. 91
+
+`VL`: Effective SVE vector length
+* [Doc 1](./Doc001.md): p. 211
 
 `VMID`: Virtual Machine Identifier
 * [Doc 1](./Doc001.md): p. 99
