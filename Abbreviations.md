@@ -104,6 +104,9 @@
 `LSE`: Large System Extensions
 * [Doc 1](./Doc001.md): p. 97, 120
 
+`LSZ`: the number of trailing zeroes in the element size field
+* [Doc 1](./Doc001.md): p. 213
+
 ## M
 
 `MEC`: Memory Encryption Contexts
@@ -245,7 +248,7 @@
 * [Doc 1](./Doc001.md): p. 91
 
 `VL`: Effective SVE vector length
-* [Doc 1](./Doc001.md): p. 211
+* [Doc 1](./Doc001.md): p. 211, 212, 214
 
 `VMID`: Virtual Machine Identifier
 * [Doc 1](./Doc001.md): p. 99
