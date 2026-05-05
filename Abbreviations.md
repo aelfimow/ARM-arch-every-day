@@ -207,6 +207,12 @@
 `SME`: Scalable Matrix Extensions
 * [Doc 1](./Doc001.md): p. 26, 40, 166, 167
 
+`SMP`: Symmetric Multiprocessing
+* [Doc 1](./Doc001.md): p. 239
+
+`SMT`: Symmetric Multithreading
+* [Doc 1](./Doc001.md): p. 239
+
 `SPE`: Statistical Profiling Extension
 * [Doc 1](./Doc001.md): p. 141
 
