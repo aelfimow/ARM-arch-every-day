@@ -24,6 +24,9 @@
 
 ## C
 
+`CMODX`: Concurrent modification and execution (of instructions)
+* [Doc 1](./Doc001.md): p. 248
+
 `COSP`: Clear Other Speculative Prediction (Restriction by Context)
 * [Doc 1](./Doc001.md): p. 157
 
