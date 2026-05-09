@@ -84,6 +84,9 @@
 
 ## I
 
+`IC`: Instruction Cache?
+* [Doc 1](./Doc001.md): p. 252
+
 `IPA`: Intermediate Physical Address
 * [Doc 1](./Doc001.md): p. 104, 138
 
@@ -231,11 +234,17 @@
 
 ## T
 
+`TLBI`: Translation Look-aside Buffer for Instructions?
+* [Doc 1](./Doc001.md): p. 252
+
 `TME`: Transactional Memory Extension
 * [Doc 1](./Doc001.md): p. 84
 
 `TTCNP`: Translation Table Common Not Private (translations)
 * [Doc 1](./Doc001.md): p. 109
+
+`TTD`: Implicit Translation Table Descriptor (Memory Effects)
+* [Doc 1](./Doc001.md): p. 252
 
 `TTL`: Translation Table Level
 * [Doc 1](./Doc001.md): p. 124
