@@ -87,6 +87,9 @@
 `IC`: Instruction Cache?
 * [Doc 1](./Doc001.md): p. 252
 
+`IFBE`: Instruction Fetch Barrier Effect
+* [Doc 1](./Doc001.md): p. 254
+
 `IPA`: Intermediate Physical Address
 * [Doc 1](./Doc001.md): p. 104, 138
 
