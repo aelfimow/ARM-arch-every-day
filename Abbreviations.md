@@ -24,6 +24,9 @@
 
 ## C
 
+`CAS`: Compare-and-Swap (instruction)
+* [Doc 1](./Doc001.md): p. 262
+
 `CMODX`: Concurrent modification and execution (of instructions)
 * [Doc 1](./Doc001.md): p. 248
 
