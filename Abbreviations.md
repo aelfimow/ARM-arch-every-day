@@ -107,6 +107,9 @@
 `LOR`: Limited Ordering Regions
 * [Doc 1](./Doc001.md): p. 97
 
+`LORegions`: Limited Ordering Regions
+* [Doc 1](./Doc001.md): p. 286
+
 `LR`: Link Register
 * [Doc 1](./Doc001.md): p. 42
 
