@@ -15,7 +15,7 @@
 * [Doc 1](./Doc001.md): p. 166
 
 `ASID`: ?
-* [Doc 1](./Doc001.md): p. 86, 178
+* [Doc 1](./Doc001.md): p. 86, 178, 294
 
 ## B
 
@@ -41,6 +41,9 @@
 
 `CSV2`: Cache Speculation Variant 2
 * [Doc 1](./Doc001.md): p. 87
+
+`CTX`: execution context
+* [Doc 1](./Doc001.md): p. 293
 
 ## D
 
@@ -278,7 +281,7 @@
 * [Doc 1](./Doc001.md): p. 211, 212, 214
 
 `VMID`: Virtual Machine Identifier
-* [Doc 1](./Doc001.md): p. 99
+* [Doc 1](./Doc001.md): p. 99, p. 294
 
 `VMSA`: Virtual Memory System Architecture
 * [Doc 1](./Doc001.md): p. 23, 41
