@@ -85,6 +85,9 @@
 `GCS`: Guarded Control Stack Extension
 * [Doc 1](./Doc001.md): p. 172
 
+`GCSB`: Guarded Control Stack Barrier
+* [Doc 1](./Doc001.md): p. 303
+
 `GIC`: Generic Interrupt Controller
 * [Doc 1](./Doc001.md): p. 44
 
