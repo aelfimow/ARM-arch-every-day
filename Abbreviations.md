@@ -185,6 +185,9 @@
 `PoPS`: Point of Physical Storage
 * [Doc 1](./Doc001.md): p. 193
 
+`PoU`: Point of unification
+* [Doc 1](./Doc001.md): p. 307
+
 `PSTATE`: Process state
 * [Doc 1](./Doc001.md): p. 42
 
