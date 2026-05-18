@@ -22,6 +22,9 @@
 `BWE`: Breakpoint and Watchpoint Enhancements
 * [Doc 1](./Doc001.md): p. 171
 
+`B_A`: Byte at address A
+* [Doc 1](./Doc001.md): p. 312
+
 ## C
 
 `CAS`: Compare-and-Swap (instruction)
@@ -91,6 +94,11 @@
 `GIC`: Generic Interrupt Controller
 * [Doc 1](./Doc001.md): p. 44
 
+## H
+
+`HW_A`: Halfword at address A
+* [Doc 1](./Doc001.md): p. 312
+
 ## I
 
 `IC`: Instruction Cache?
@@ -119,11 +127,15 @@
 `LR`: Link Register
 * [Doc 1](./Doc001.md): p. 42
 
-`LSFE`: Large System Float Extension
-* [Doc 1](./Doc001.md): p. 191
+`LSByte`: Least significant byte
+* [Doc 1](./Doc001.md): p. 312
+* See also: `MSByte`
 
 `LSE`: Large System Extensions
 * [Doc 1](./Doc001.md): p. 97, 120
+
+`LSFE`: Large System Float Extension
+* [Doc 1](./Doc001.md): p. 191
 
 `LSZ`: the number of trailing zeroes in the element size field
 * [Doc 1](./Doc001.md): p. 213
@@ -147,6 +159,10 @@
 
 `MRO`: Mostly Read Only (permission)
 * [Doc 1](./Doc001.md): p. 157
+
+`MSByte`: Most significant byte
+* [Doc 1](./Doc001.md): p. 312
+* See also: `LSByte`
 
 `MTE`: Memory Tagging Extension
 * [Doc 1](./Doc001.md): p. 139
