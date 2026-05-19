@@ -29,3 +29,8 @@ From [Doc 1](./Doc001.md).
 
 * p.156
   - Arm® Reliability Availability and Serviceability (RAS) System Architecture, for A-profile architecture (ARM IHI 0100)
+
+* p.315
+  - Arm® Memory System Resource Partitioning and Monitoring (MPAM) System Component Specification (ARM IHI 0099)
+  - ARM® Generic Interrupt Controller Architecture Specification, GIC architecture version 3 and version 4
+  - Arm® Embedded Trace Macrocell Architecture Specification, ETMv4
