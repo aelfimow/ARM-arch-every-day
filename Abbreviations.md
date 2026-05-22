@@ -45,6 +45,9 @@
 `CSV2`: Cache Speculation Variant 2
 * [Doc 1](./Doc001.md): p. 87
 
+`CTR`: ?
+* [Doc 1](./Doc001.md): p. 337
+
 `CTX`: execution context
 * [Doc 1](./Doc001.md): p. 293
 
