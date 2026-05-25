@@ -152,13 +152,13 @@
 * [Doc 1](./Doc001.md): p. 66
 
 `MMU`: Memory Management Unit
-* [Doc 1](./Doc001.md): p. 41
+* [Doc 1](./Doc001.md): p. 41, 351
 
 `MPAM`: ?
 * [Doc 1](./Doc001.md): p. 177, 191
 
 `MPU`: Memory Protection Unit
-* [Doc 1](./Doc001.md): p. 41
+* [Doc 1](./Doc001.md): p. 41, 351
 
 `MRO`: Mostly Read Only (permission)
 * [Doc 1](./Doc001.md): p. 157
@@ -184,7 +184,7 @@
 * [Doc 1](./Doc001.md): p. 79, 104, 138
 
 `PAC`: Pointer Authentication Code
-* [Doc 1](./Doc001.md): p. 111, 112
+* [Doc 1](./Doc001.md): p. 111, 112, 351
 
 `PAN`: Privileged Access Never
 * [Doc 1](./Doc001.md): p. 98
@@ -294,7 +294,7 @@
 ## V
 
 `VA`: virtual address
-* [Doc 1](./Doc001.md): p. 79, 105, 138
+* [Doc 1](./Doc001.md): p. 79, 105, 138, 351
 
 `VHE`: Virtualization Host Extensions
 * [Doc 1](./Doc001.md): p. 99
