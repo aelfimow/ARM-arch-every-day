@@ -212,8 +212,14 @@
 
 ## R
 
+`RAO`: Read-As-One
+* [Doc 1](./Doc001.md): p. 360
+
 `RAS`: Reliability, Availability, and Serviceability
 * [Doc 1](./Doc001.md): p. 80, 106, 122
+
+`RAZ`: Read-As-Zero
+* [Doc 1](./Doc001.md): p. 359
 
 `RCpc`: Release Consistency processor consistent
 * [Doc 1](./Doc001.md): p. 114, 120
@@ -234,6 +240,12 @@
 * [Doc 1](./Doc001.md): p. 63
 
 ## S
+
+`SBO`: Should-Be-One
+* [Doc 1](./Doc001.md): p. 360
+
+`SBZ`: Should-Be-Zero
+* [Doc 1](./Doc001.md): p. 359
 
 `SDC`: Silent Data Corruption
 * [Doc 1](./Doc001.md): p. 81
