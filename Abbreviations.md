@@ -184,7 +184,7 @@
 * [Doc 1](./Doc001.md): p. 79, 104, 138
 
 `PAC`: Pointer Authentication Code
-* [Doc 1](./Doc001.md): p. 111, 112, 351
+* [Doc 1](./Doc001.md): p. 111, 112, 351, 370
 
 `PAN`: Privileged Access Never
 * [Doc 1](./Doc001.md): p. 98
