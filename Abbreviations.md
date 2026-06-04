@@ -168,7 +168,7 @@
 * See also: `LSByte`
 
 `MTE`: Memory Tagging Extension
-* [Doc 1](./Doc001.md): p. 139
+* [Doc 1](./Doc001.md): p. 139, 429
 
 ## N
 
