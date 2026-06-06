@@ -8,6 +8,9 @@
 `AArchv9-A`: `Armv9-A` implementation
 * [Doc 1](./Doc001.md): p. 41
 
+`AES`: Advanced Encryption Standard
+* [Doc 1](./Doc001.md): p. 464
+
 `APSR`: Application Program Status Register
 * [Doc 1](./Doc001.md): p. 42
 
@@ -252,6 +255,9 @@
 
 `SDC FIT` rate: Silent Data Corruption Failure-in-Time rate
 * [Doc 1](./Doc001.md): p. 82
+
+`SHA`: Secure Hash Algorithm
+* [Doc 1](./Doc001.md): p. 464
 
 `SISD`: Single Instruction Single Data?
 * [Doc 1](./Doc001.md): p. 87
