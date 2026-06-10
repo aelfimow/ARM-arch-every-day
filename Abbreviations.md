@@ -81,6 +81,9 @@
 
 ## F
 
+`FFR`: ?
+* [Doc 1](./Doc001.md): p. 482
+
 `FP8`: 8-bit floating point format
 * [Doc 1](./Doc001.md): p. 57, p. 65ff
 
