@@ -81,8 +81,8 @@
 
 ## F
 
-`FFR`: ?
-* [Doc 1](./Doc001.md): p. 482
+`FFR`: First Fault Register
+* [Doc 1](./Doc001.md): p. 204, 482
 
 `FP8`: 8-bit floating point format
 * [Doc 1](./Doc001.md): p. 57, p. 65ff
