@@ -95,7 +95,7 @@
 ## G
 
 `GCS`: Guarded Control Stack Extension
-* [Doc 1](./Doc001.md): p. 172
+* [Doc 1](./Doc001.md): p. 172, p. 877
 
 `GCSB`: Guarded Control Stack Barrier
 * [Doc 1](./Doc001.md): p. 303
@@ -229,6 +229,9 @@
 
 `RCpc`: Release Consistency processor consistent
 * [Doc 1](./Doc001.md): p. 114, 120
+
+`RCW`: ?
+* [Doc 1](./Doc001.md): p. 872
 
 `RDM`: Rounding Double Multiply(-accumulate instructions)
 * [Doc 1](./Doc001.md): p. 98
