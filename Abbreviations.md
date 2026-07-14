@@ -214,7 +214,7 @@
 * [Doc 1](./Doc001.md): p. 307
 
 `PSTATE`: Process state
-* [Doc 1](./Doc001.md): p. 42
+* [Doc 1](./Doc001.md): p. 42, p. 920
 
 ## R
 
@@ -296,7 +296,7 @@
 ## T
 
 `TLBI`: Translation Look-aside Buffer for Instructions?
-* [Doc 1](./Doc001.md): p. 252
+* [Doc 1](./Doc001.md): p. 252, p. 924ff
 
 `TME`: Transactional Memory Extension
 * [Doc 1](./Doc001.md): p. 84
