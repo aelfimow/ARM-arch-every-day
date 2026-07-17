@@ -90,7 +90,7 @@
 `FPCR`: Floating-point Control Register
 `FPSCR`: Floating-Point Status and Control Register
 `FPSR`: Floating-point Status Register
-* [Doc 1](./Doc001.md): p. 62
+* [Doc 1](./Doc001.md): p. 62, p. 960
 
 ## G
 
