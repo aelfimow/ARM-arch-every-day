@@ -84,6 +84,9 @@
 `FFR`: First Fault Register
 * [Doc 1](./Doc001.md): p. 204, 482
 
+`FIQ` (mode): ?
+* [Doc 1](./Doc001.md): p. 1039
+
 `FP8`: 8-bit floating point format
 * [Doc 1](./Doc001.md): p. 57, p. 65ff
 
@@ -252,6 +255,9 @@
 
 `SBO`: Should-Be-One
 * [Doc 1](./Doc001.md): p. 360
+
+`SSBS`: Speculative Store Bypass Safe
+* [Doc 1](./Doc001.md): p. 1054
 
 `SBZ`: Should-Be-Zero
 * [Doc 1](./Doc001.md): p. 359
