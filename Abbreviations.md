@@ -210,8 +210,11 @@
 `PMU`: Performance Monitors Unit
 * [Doc 1](./Doc001.md): p. 92
 
+`PoC`: Point of Coherency
+* [Doc 1](./Doc001.md): p. 1092
+
 `PoPS`: Point of Physical Storage
-* [Doc 1](./Doc001.md): p. 193
+* [Doc 1](./Doc001.md): p. 193, 1096
 
 `PoU`: Point of unification
 * [Doc 1](./Doc001.md): p. 307
