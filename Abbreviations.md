@@ -157,6 +157,9 @@
 `MEC`: Memory Encryption Contexts
 * [Doc 1](./Doc001.md): p. 169
 
+`MECID`: ?
+* [Doc 1](./Doc001.md): p. 1105
+
 `MinNorm`: Limit to treat a number as a denormalized number: $$0 < Abs(value) < MinNorm$$
 * [Doc 1](./Doc001.md): p. 66
 
@@ -213,10 +216,19 @@
 `PoC`: Point of Coherency
 * [Doc 1](./Doc001.md): p. 1092
 
+`PoDP`: Point of Deep Persistence
+* [Doc 1](./Doc001.md): p. 1120
+
+`PoP`: Point of Persistence
+* [Doc 1](./Doc001.md): p. 1124
+
+`PoPA`: Point of Physical Aliasing
+* [Doc 1](./Doc001.md): p. 1105
+
 `PoPS`: Point of Physical Storage
 * [Doc 1](./Doc001.md): p. 193, 1096
 
-`PoU`: Point of unification
+`PoU`: Point of Unification
 * [Doc 1](./Doc001.md): p. 307
 
 `PSTATE`: Process state
