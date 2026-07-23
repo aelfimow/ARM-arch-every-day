@@ -229,7 +229,7 @@
 * [Doc 1](./Doc001.md): p. 193, 1096
 
 `PoU`: Point of Unification
-* [Doc 1](./Doc001.md): p. 307
+* [Doc 1](./Doc001.md): p. 307, 1146
 
 `PSTATE`: Process state
 * [Doc 1](./Doc001.md): p. 42, p. 920
