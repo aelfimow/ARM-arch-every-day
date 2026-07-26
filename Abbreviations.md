@@ -18,7 +18,7 @@
 * [Doc 1](./Doc001.md): p. 166
 
 `ASID`: ?
-* [Doc 1](./Doc001.md): p. 86, 178, 294
+* [Doc 1](./Doc001.md): p. 86, 178, 294, 1206
 
 ## B
 
@@ -105,6 +105,9 @@
 
 `GIC`: Generic Interrupt Controller
 * [Doc 1](./Doc001.md): p. 44
+
+`GPT`: ?
+* [Doc 1](./Doc001.md): p. 1241
 
 ## H
 
