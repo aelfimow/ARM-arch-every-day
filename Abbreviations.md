@@ -289,6 +289,9 @@
 `SHA`: Secure Hash Algorithm
 * [Doc 1](./Doc001.md): p. 464
 
+`SIMD`: Single Instruction Multiple Data
+* [Doc 1](./Doc001.md): p. 2874
+
 `SISD`: Single Instruction Single Data?
 * [Doc 1](./Doc001.md): p. 87
 
